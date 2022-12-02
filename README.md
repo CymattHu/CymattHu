@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CymattHu
-- 👀 I’m interested in Automated driving control algorithm
-- 🌱 I’m currently learning traversal/longitudinal control
-- 💞️ I’m looking to collaborate on algorithm coding on automated driving control
+- 👀 I’m interested in Automated driving control&Decision algorithm
+- 🌱 I’m currently learning RL related stuff.
 - 📫 How to reach me chunyu.hu95@gmail.com
 
 <!---
